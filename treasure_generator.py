@@ -11,9 +11,6 @@ with open("adjectiveList.txt") as adjs :
     for x in adjs:
         adj_list.append(adjs.readline().strip())
 
-print(name_list)
-print(adj_list)
-
 user_num = input("How many items: ")
 print("\nTreasure: ")
 
