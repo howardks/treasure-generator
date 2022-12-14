@@ -2,7 +2,7 @@
 
 This is a basic loot generator written in python. 
 
-<p>One text file containing nouns and one text file containing adjectives are read by the program. The user inputs how many items to generate, then these nouns and adjectives are randomly combined to produce a loot item and a value for the item is randomly generated. The default input files are included. The spacing in the example output below is not accurate. 
+<p>One text file containing nouns and one text file containing adjectives are read by the program. The user inputs how many items to generate, then these nouns and adjectives are randomly combined to produce a loot item and a value for the item is randomly generated. Currently, the range of values generated are between 0gp 0sp 0cp and 1gp 5sp 9gp. The default input files are included. The spacing in the example output below is not accurate. 
 <p>They contain: <br>
 Names: fork, button, candle, journal, deck of cards, monocle, ring, necklace, shawl, bell<br>
 Adjectives: crusty, dirty, plain, bulky, common, pretty, remarkable, gorgeous, breath-taking, amazing
