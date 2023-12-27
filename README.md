@@ -1,4 +1,4 @@
-# TreasureGen
+# Treasure Generator
 
 This is a basic loot generator written in python. 
 
